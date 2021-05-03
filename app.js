@@ -1,5 +1,5 @@
 // -----------------------------------------------
-// TRANSACTIONS CLASS
+// TRANSACTIONS CLASS :D :D
 // -----------------------------------------------
 class Transaction {
 
